@@ -4,11 +4,42 @@
     color: brown;
 }
 
-.recipes {
-    text-align: center;
+.title {
+    border: 5px solid brown;
+    background-color: aliceblue;
+    padding: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: auto;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:link, a:visited {
+    text-decoration: none;
+}
+
+.recipe_links {
+    margin-top: 8px;
+    border: 2px solid brown;
     background-color: beige;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: brown;
+    text-align: center;
+}
+
+#sbc {
+    color: black;
+}
+
+#pizza {
+    color: black;
+}
+
+#csw {
+    color: black;
 }
 
 #image {
