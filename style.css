@@ -75,3 +75,9 @@ a:link, a:visited {
 .title-subsection {
     box-sizing: border-box;
 }
+
+/* ID */
+
+#pizza {
+    text-align: left;
+}
